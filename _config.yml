@@ -1,8 +1,15 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
+title: "JHPC-Quantum Project Documentation"
+search_enabled: true
+color_scheme: "light"
 
-url: https://just-the-docs.github.io
+logo: "/assets/images/jhpcq-logo.png"
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "JHPC-Quantum GitHub":
+    - "https://github.com/jhpc-quantum"
+  "RIKEN R-CCS":
+    - "https://www.r-ccs.riken.jp"
+
+# サイドバー階層の深さ
+nav_sort: case_sensitive
