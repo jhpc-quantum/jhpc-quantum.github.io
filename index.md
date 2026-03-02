@@ -1,15 +1,29 @@
 ---
-title: Home
-layout: home
+title: JHPC Quantum Project Documentation
+nav_order: 1
 ---
+現在、このサイトは作成中です。
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# JHPC-Quantum Documentation
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+JHPC-Quantum プロジェクトは、日本の HPC と量子コンピューティングを統合し、
+次世代の科学技術計算、創薬、材料科学、最適化問題を解くための
+**ハイブリッド計算基盤**を開発しています。
 
-More specifically, the created site:
+- Fugaku, Rei（叡）などの HPC/QPU を統合
+- VQE / QSCI / QAOA など量子アルゴリズムの実装
+- HPC × Quantum Hybrid ワークフロー
+- TRIP / Q-LEAP / BINDS / 産学官連携プロジェクト対応
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+本サイトは JHPC-Quantum の技術文書・APIガイド・研究成果を統合します。
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+---
+## 🔍 主要ドキュメント
+
+- **Overview** — プロジェクト概要
+- **Architecture** — システムアーキテクチャ  
+- **HPC Environment** — Fugaku/GPU 環境の設定  
+- **Quantum Module** — 量子計算機の接続方法  
+- **Hybrid Workflow** — ハイブリッド統合ワークフロー  
+- **API** — SDK / Python / C++ API  
+- **Research** — 量子化学・最適化・ML など応用研究  

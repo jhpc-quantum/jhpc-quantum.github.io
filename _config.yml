@@ -1,5 +1,5 @@
 theme: just-the-docs
-title: "JHPC-Quantum Project Documentation"
+title: "JHPC-Quantum Project"
 search_enabled: true
 color_scheme: "light"
 
@@ -8,6 +8,8 @@ color_scheme: "light"
 aux_links:
   "JHPC-Quantum GitHub":
     - "https://github.com/jhpc-quantum"
+  "JHPC-Quantum Project":
+    - "https://jhpc-quantum.org/en"
   "RIKEN R-CCS":
     - "https://www.r-ccs.riken.jp"
 
