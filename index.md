@@ -2,6 +2,7 @@
 title: JHPC Quantum Project Documentation
 nav_order: 1
 ---
+現在、このサイトは作成中です。
 
 # JHPC-Quantum Documentation
 
