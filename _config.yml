@@ -3,7 +3,7 @@ title: "JHPC-Quantum Project Documentation"
 search_enabled: true
 color_scheme: "light"
 
-logo: "/assets/images/jhpcq-logo.png"
+# logo: "/assets/images/jhpcq-logo.png"
 
 aux_links:
   "JHPC-Quantum GitHub":
