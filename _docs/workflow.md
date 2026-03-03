@@ -1,9 +1,3 @@
-
----
-
-# 🔗 _docs/hybrid-workflow.md（ハイブリッド統合ワークフロー）
-
-```markdown
 ---
 title: Hybrid Workflow
 nav_order: 8
