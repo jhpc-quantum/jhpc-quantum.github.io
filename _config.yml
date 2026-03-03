@@ -5,16 +5,16 @@ color_scheme: "light"
 
 # logo: "/assets/images/jhpcq-logo.png"
 
-collections:
-  docs:
-    output: true
-    permalink: /:collection/:path/
+#collections:
+#  docs:
+#    output: true
+#    permalink: /:collection/:path/
 
-just_the_docs:
-  collections:
-    docs:
-      name: Documentation
-      nav_exclude: false
+#just_the_docs:
+#  collections:
+#    docs:
+#      name: Documentation
+#      nav_exclude: false
 
 aux_links:
   "JHPC-Quantum GitHub":
