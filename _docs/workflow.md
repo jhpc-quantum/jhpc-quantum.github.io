@@ -1,6 +1,7 @@
 ---
 title: Hybrid Workflow
-nav_order: 8
+layout: home
+nav_order: 5
 ---
 
 # Hybrid Workflow

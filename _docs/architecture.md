@@ -1,6 +1,7 @@
 ---
 title: Architecture
-nav_order: 3
+layout: home
+nav_order: 2
 ---
 
 # System Architecture

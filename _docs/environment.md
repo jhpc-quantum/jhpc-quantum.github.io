@@ -1,6 +1,7 @@
 ---
 title: HPC / Quantum Environment
-nav_order: 4
+layout: home
+nav_order: 3
 ---
 
 # Environment Setup

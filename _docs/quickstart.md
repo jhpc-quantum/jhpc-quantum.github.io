@@ -1,6 +1,7 @@
 ---
 title: Quick Start
-nav_order: 5
+layout: home
+nav_order: 4
 ---
 
 # Quick Start

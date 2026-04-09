@@ -2,27 +2,46 @@ theme: just-the-docs
 title: "JHPC-Quantum Project"
 search_enabled: true
 color_scheme: "light"
+description: this site for the ducumentation of JHPC Quantum project.
 
-# logo: "/assets/images/jhpcq-logo.png"
+sass:
+  quiet_deps: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "home"
 
 collections:
   docs:
-    output: true
     permalink: /:collection/:path/
+    output: true
+  docs-jp:
+    permalink: /:collection/:path/
+    output: true
+  docs-sample:
+    permalink: /:collection/:path/
+    output: true
 
 just_the_docs:
   collections:
     docs:
-      name: Documentation
+      name: Documentations
       nav_exclude: false
+    docs-jp:
+      name: Documentations （日本語）
+      nav_exclude: false
+    docs-sample:
+      name: sample
+      nav_exclude: false
+
+
+url: https://jhpc-quantum.github.io
 
 aux_links:
   "JHPC-Quantum GitHub":
     - "https://github.com/jhpc-quantum"
-  "JHPC-Quantum Project":
-    - "https://jhpc-quantum.org/en"
   "RIKEN R-CCS":
     - "https://www.r-ccs.riken.jp"
-
-# サイドバー階層の深さ
-nav_sort: case_sensitive
